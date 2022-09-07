@@ -1,4 +1,2 @@
-vi 4-lastlines
 #!/bin/bash
 tail  /etc/passwd
-:wq
